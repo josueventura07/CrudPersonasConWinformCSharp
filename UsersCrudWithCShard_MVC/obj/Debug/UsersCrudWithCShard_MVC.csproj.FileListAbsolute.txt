@@ -1,0 +1,59 @@
+C:\Users\josue\source\repos\UsersCrudWithCShard_MVC\UsersCrudWithCShard_MVC\obj\Debug\UsersCrudWithCShard_MVC.csproj.AssemblyReference.cache
+C:\Users\josue\source\repos\UsersCrudWithCShard_MVC\UsersCrudWithCShard_MVC\obj\Debug\UsersCrudWithCShard_MVC.Properties.Resources.resources
+C:\Users\josue\source\repos\UsersCrudWithCShard_MVC\UsersCrudWithCShard_MVC\obj\Debug\UsersCrudWithCShard_MVC.csproj.GenerateResource.cache
+C:\Users\josue\source\repos\UsersCrudWithCShard_MVC\UsersCrudWithCShard_MVC\obj\Debug\UsersCrudWithCShard_MVC.csproj.CoreCompileInputs.cache
+C:\Users\josue\source\repos\UsersCrudWithCShard_MVC\UsersCrudWithCShard_MVC\bin\Debug\UsersCrudWithCShard_MVC.exe.config
+C:\Users\josue\source\repos\UsersCrudWithCShard_MVC\UsersCrudWithCShard_MVC\bin\Debug\UsersCrudWithCShard_MVC.exe
+C:\Users\josue\source\repos\UsersCrudWithCShard_MVC\UsersCrudWithCShard_MVC\bin\Debug\UsersCrudWithCShard_MVC.pdb
+C:\Users\josue\source\repos\UsersCrudWithCShard_MVC\UsersCrudWithCShard_MVC\obj\Debug\UsersCrudWithCShard_MVC.exe
+C:\Users\josue\source\repos\UsersCrudWithCShard_MVC\UsersCrudWithCShard_MVC\obj\Debug\UsersCrudWithCShard_MVC.pdb
+C:\Users\josue\source\repos\UsersCrudWithCShard_MVC\UsersCrudWithCShard_MVC\obj\Debug\UsersCrudWithCShard_MVC.Views.MainView.resources
+C:\Users\josue\source\repos\UsersCrudWithCShard_MVC\UsersCrudWithCShard_MVC\obj\Debug\UsersCrudWithCShard_MVC.Views.UserView.resources
+C:\Users\Josue Ventura\Desktop\Proyectos C#\UsersCrudWithCShard_MVC\UsersCrudWithCShard_MVC\bin\Debug\UsersCrudWithCShard_MVC.exe.config
+C:\Users\Josue Ventura\Desktop\Proyectos C#\UsersCrudWithCShard_MVC\UsersCrudWithCShard_MVC\bin\Debug\UsersCrudWithCShard_MVC.exe
+C:\Users\Josue Ventura\Desktop\Proyectos C#\UsersCrudWithCShard_MVC\UsersCrudWithCShard_MVC\bin\Debug\UsersCrudWithCShard_MVC.pdb
+C:\Users\Josue Ventura\Desktop\Proyectos C#\UsersCrudWithCShard_MVC\UsersCrudWithCShard_MVC\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Josue Ventura\Desktop\Proyectos C#\UsersCrudWithCShard_MVC\UsersCrudWithCShard_MVC\bin\Debug\Google.Protobuf.dll
+C:\Users\Josue Ventura\Desktop\Proyectos C#\UsersCrudWithCShard_MVC\UsersCrudWithCShard_MVC\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Josue Ventura\Desktop\Proyectos C#\UsersCrudWithCShard_MVC\UsersCrudWithCShard_MVC\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Josue Ventura\Desktop\Proyectos C#\UsersCrudWithCShard_MVC\UsersCrudWithCShard_MVC\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Josue Ventura\Desktop\Proyectos C#\UsersCrudWithCShard_MVC\UsersCrudWithCShard_MVC\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Josue Ventura\Desktop\Proyectos C#\UsersCrudWithCShard_MVC\UsersCrudWithCShard_MVC\bin\Debug\MySql.Data.dll
+C:\Users\Josue Ventura\Desktop\Proyectos C#\UsersCrudWithCShard_MVC\UsersCrudWithCShard_MVC\bin\Debug\System.Buffers.dll
+C:\Users\Josue Ventura\Desktop\Proyectos C#\UsersCrudWithCShard_MVC\UsersCrudWithCShard_MVC\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Josue Ventura\Desktop\Proyectos C#\UsersCrudWithCShard_MVC\UsersCrudWithCShard_MVC\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Josue Ventura\Desktop\Proyectos C#\UsersCrudWithCShard_MVC\UsersCrudWithCShard_MVC\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Josue Ventura\Desktop\Proyectos C#\UsersCrudWithCShard_MVC\UsersCrudWithCShard_MVC\bin\Debug\System.Memory.dll
+C:\Users\Josue Ventura\Desktop\Proyectos C#\UsersCrudWithCShard_MVC\UsersCrudWithCShard_MVC\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Josue Ventura\Desktop\Proyectos C#\UsersCrudWithCShard_MVC\UsersCrudWithCShard_MVC\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Josue Ventura\Desktop\Proyectos C#\UsersCrudWithCShard_MVC\UsersCrudWithCShard_MVC\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Josue Ventura\Desktop\Proyectos C#\UsersCrudWithCShard_MVC\UsersCrudWithCShard_MVC\bin\Debug\ZstdSharp.dll
+C:\Users\Josue Ventura\Desktop\Proyectos C#\UsersCrudWithCShard_MVC\UsersCrudWithCShard_MVC\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Josue Ventura\Desktop\Proyectos C#\UsersCrudWithCShard_MVC\UsersCrudWithCShard_MVC\bin\Debug\Google.Protobuf.pdb
+C:\Users\Josue Ventura\Desktop\Proyectos C#\UsersCrudWithCShard_MVC\UsersCrudWithCShard_MVC\bin\Debug\Google.Protobuf.xml
+C:\Users\Josue Ventura\Desktop\Proyectos C#\UsersCrudWithCShard_MVC\UsersCrudWithCShard_MVC\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Josue Ventura\Desktop\Proyectos C#\UsersCrudWithCShard_MVC\UsersCrudWithCShard_MVC\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Josue Ventura\Desktop\Proyectos C#\UsersCrudWithCShard_MVC\UsersCrudWithCShard_MVC\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Josue Ventura\Desktop\Proyectos C#\UsersCrudWithCShard_MVC\UsersCrudWithCShard_MVC\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Josue Ventura\Desktop\Proyectos C#\UsersCrudWithCShard_MVC\UsersCrudWithCShard_MVC\bin\Debug\MySql.Data.xml
+C:\Users\Josue Ventura\Desktop\Proyectos C#\UsersCrudWithCShard_MVC\UsersCrudWithCShard_MVC\bin\Debug\System.Buffers.xml
+C:\Users\Josue Ventura\Desktop\Proyectos C#\UsersCrudWithCShard_MVC\UsersCrudWithCShard_MVC\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Josue Ventura\Desktop\Proyectos C#\UsersCrudWithCShard_MVC\UsersCrudWithCShard_MVC\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Josue Ventura\Desktop\Proyectos C#\UsersCrudWithCShard_MVC\UsersCrudWithCShard_MVC\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Josue Ventura\Desktop\Proyectos C#\UsersCrudWithCShard_MVC\UsersCrudWithCShard_MVC\bin\Debug\System.Memory.xml
+C:\Users\Josue Ventura\Desktop\Proyectos C#\UsersCrudWithCShard_MVC\UsersCrudWithCShard_MVC\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Josue Ventura\Desktop\Proyectos C#\UsersCrudWithCShard_MVC\UsersCrudWithCShard_MVC\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Josue Ventura\Desktop\Proyectos C#\UsersCrudWithCShard_MVC\UsersCrudWithCShard_MVC\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Josue Ventura\Desktop\Proyectos C#\UsersCrudWithCShard_MVC\UsersCrudWithCShard_MVC\obj\Debug\UsersCrudWithCShard_MVC.csproj.AssemblyReference.cache
+C:\Users\Josue Ventura\Desktop\Proyectos C#\UsersCrudWithCShard_MVC\UsersCrudWithCShard_MVC\obj\Debug\UsersCrudWithCShard_MVC.Properties.Resources.resources
+C:\Users\Josue Ventura\Desktop\Proyectos C#\UsersCrudWithCShard_MVC\UsersCrudWithCShard_MVC\obj\Debug\UsersCrudWithCShard_MVC.Views.MainView.resources
+C:\Users\Josue Ventura\Desktop\Proyectos C#\UsersCrudWithCShard_MVC\UsersCrudWithCShard_MVC\obj\Debug\UsersCrudWithCShard_MVC.Views.UserView.resources
+C:\Users\Josue Ventura\Desktop\Proyectos C#\UsersCrudWithCShard_MVC\UsersCrudWithCShard_MVC\obj\Debug\UsersCrudWithCShard_MVC.csproj.GenerateResource.cache
+C:\Users\Josue Ventura\Desktop\Proyectos C#\UsersCrudWithCShard_MVC\UsersCrudWithCShard_MVC\obj\Debug\UsersCrudWithCShard_MVC.csproj.CoreCompileInputs.cache
+C:\Users\Josue Ventura\Desktop\Proyectos C#\UsersCrudWithCShard_MVC\UsersCrudWithCShard_MVC\obj\Debug\UsersCru.250FC194.Up2Date
+C:\Users\Josue Ventura\Desktop\Proyectos C#\UsersCrudWithCShard_MVC\UsersCrudWithCShard_MVC\obj\Debug\UsersCrudWithCShard_MVC.exe
+C:\Users\Josue Ventura\Desktop\Proyectos C#\UsersCrudWithCShard_MVC\UsersCrudWithCShard_MVC\obj\Debug\UsersCrudWithCShard_MVC.pdb
+C:\Users\Josue Ventura\Desktop\Proyectos C#\UsersCrudWithCShard_MVC\UsersCrudWithCShard_MVC\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Josue Ventura\Desktop\Proyectos C#\UsersCrudWithCShard_MVC\UsersCrudWithCShard_MVC\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Josue Ventura\Desktop\Proyectos C#\UsersCrudWithCShard_MVC\UsersCrudWithCShard_MVC\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Josue Ventura\Desktop\Proyectos C#\UsersCrudWithCShard_MVC\UsersCrudWithCShard_MVC\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
